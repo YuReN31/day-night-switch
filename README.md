@@ -1,5 +1,20 @@
 # 🌞🌙 Day & Night Switch
-<a href="https://night-day.netlify.app/" target="_blank">Ver projeto</a>
+<p align="center">
+  <a href="https://night-day.netlify.app/" target="_blank" style="
+      display: inline-block;
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 25px;
+      text-align: center;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+      font-family: Arial, sans-serif;
+      transition: background 0.3s;
+  " onmouseover="this.style.backgroundColor='#45a049'" onmouseout="this.style.backgroundColor='#4CAF50'">
+    Ver projeto
+  </a>
+</p>
 <p align="center">
   <img src="day-night-switch/card.png" alt="Preview do card" >
 </p>

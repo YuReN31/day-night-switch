@@ -1,6 +1,8 @@
 # 🌞🌙 Day & Night Switch
 
-![Preview do card](day-night-switch/card.png)
+<p align="center">
+  <img src="day-night-switch/card.png" alt="Preview do card" >
+</p>
 ---
 Este projeto é um **card interativo** que alterna entre **modo dia** e **modo noite** com animações do sol, lua, nuvens e estrelas.
 

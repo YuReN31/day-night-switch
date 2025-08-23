@@ -3,7 +3,7 @@
 <p align="center">
   <img src="day-night-switch/card.png" alt="Preview do card" >
 </p>
----
+
 Este projeto é um **card interativo** que alterna entre **modo dia** e **modo noite** com animações do sol, lua, nuvens e estrelas.
 
 O objetivo é mostrar como usar CSS, JavaScript e HTML para criar uma interface visual animada e interativa, que também pode ser integrada facilmente em outros sites.

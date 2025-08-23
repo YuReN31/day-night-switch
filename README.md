@@ -39,7 +39,7 @@ O objetivo é mostrar como usar CSS, JavaScript e HTML para criar uma interface 
 
 1. Clone ou baixe o repositório:
 ```bash
-<a href="https://github.com/YuReN31/day-night-switch.git">Link do repósitorio</a>
+github.com/YuReN31/day-night-switch.git
 ```
 
 2. Abra o arquivo `index.html` no navegador.

@@ -1,6 +1,6 @@
 # 🌞🌙 Day & Night Switch
 <p align="center">
-  <a href="https://night-day.netlify.app/" target="_blank" >
+  <a href="https://night-day.netlify.app/" >
     Ver projeto
   </a>
 </p>

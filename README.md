@@ -1,7 +1,7 @@
 # 🌞🌙 Day & Night Switch
 
-![Preview do card](Imagens_readme/light.png)
-![Preview do card](Imagens_readme/night.png)
+![Preview do card](day-night-switch/imagens_readme/light.png)
+![Preview do card](day-night-switch/imagens_readme/night.png)
 Este projeto é um **card interativo** que alterna entre **modo dia** e **modo noite** com animações do sol, lua, nuvens e estrelas.
 
 O objetivo é mostrar como usar CSS, JavaScript e HTML para criar uma interface visual animada e interativa, que também pode ser integrada facilmente em outros sites.

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Switch dia & noite</title>
+</head>
+
+<!-- ao clicar no body inteiro, chama a função active() do JS -->
+
+<body>
+
+    <!-- título que também troca de cor -->
+    <h1 class="text">Sistema dia/noite</h1>
+
+    <!-- caixa principal que contém sol, lua, nuvens e estrelas -->
+    <div id="main" onclick="active()">
+        <!-- nuvens (formadas por várias bolinhas sobrepostas) -->
+        <div class="cloud" id="cloud">
+            <div class="clouds cl1"></div>
+            <div class="clouds cl2"></div>
+            <div class="clouds cl3"></div>
+            <div class="clouds cl4"></div>
+            <div class="clouds cl5"></div>
+            <div class="clouds cl6"></div>
+            <div class="complet"></div>
+        </div>
+        <!-- sol (começa à esquerda) -->
+        <div class="left" id="sun">
+            <div class="sol"></div>
+        </div>
+
+
+
+        <!-- estrelas (12 pontinhos brancos) -->
+        <div class="star" id="stars">
+            <div class="stars st1"></div>
+            <div class="stars st2"></div>
+            <div class="stars st3"></div>
+            <div class="stars st4"></div>
+            <div class="stars st5"></div>
+            <div class="stars st6"></div>
+            <div class="stars st7"></div>
+            <div class="stars st8"></div>
+            <div class="stars st9"></div>
+            <div class="stars st10"></div>
+            <div class="stars st11"></div>
+            <div class="stars st12"></div>
+        </div>
+
+        <!-- lua (com 3 crateras simuladas por <span>) -->
+        <div class="right" id="moon">
+            <div class="lua">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p class="text">
+            Código e documentação feitas por
+            <a href="https://github.com/YuReN31" target="_blank" class="text">YuReN31_</a>
+        </p>
+    </footer>
+
+    <!-- script principal -->
+    <script src="script.js"></script>
+</body>
+
+</html>

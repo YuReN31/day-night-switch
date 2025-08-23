@@ -1,17 +1,6 @@
 # 🌞🌙 Day & Night Switch
 <p align="center">
-  <a href="https://night-day.netlify.app/" target="_blank" style="
-      display: inline-block;
-      background-color: #4CAF50;
-      color: white;
-      padding: 10px 25px;
-      text-align: center;
-      text-decoration: none;
-      font-weight: bold;
-      border-radius: 8px;
-      font-family: Arial, sans-serif;
-      transition: background 0.3s;
-  " onmouseover="this.style.backgroundColor='#45a049'" onmouseout="this.style.backgroundColor='#4CAF50'">
+  <a href="https://night-day.netlify.app/" target="_blank" >
     Ver projeto
   </a>
 </p>
